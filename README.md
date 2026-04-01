@@ -20,7 +20,7 @@
 
   - iPad only
   - iPadOS 26+
-  - Requires Apple Pencil for annotation features
+  - Apple Pencil for annotation features or use your fingers !
 
   ## Support
 
